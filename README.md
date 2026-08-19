@@ -31,8 +31,3 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?or-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=dge&logo=github&logoColor=white)
 
-## 📊 GitHub 統計
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chkia0519&show_icons=true&themeTop Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chkia0519&layout=compact&theme=github_dark)
-
-ub：[Chkia0519](https://github.com/Chkia0519)
