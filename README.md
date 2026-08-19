@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋 我是 Chki
+# Hi 👋 我是 Chkia
 
 目前從事電商相關工作，正在努力地朝向資訊工程轉職中👊
 
